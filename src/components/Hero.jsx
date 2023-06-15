@@ -13,11 +13,11 @@ const Hero = () => {
 
         </nav>
         <h1 className='head_text'>
-            Summarize all of your Articals with<br className='max-md:hidden'/>
+            Summarize all of your Articles with<br className='max-md:hidden'/>
             <span>Open AI APIS</span>
         </h1>
         <h2 className='desc'>
-            Get the summery of any article of your choice with an open source summarier with uses Chat GPT API to get a concise summery.
+            Get the summary of any article of your choice with an open source summarizer with uses Chat GPT API to get a concise summary.
 
         </h2>
 
