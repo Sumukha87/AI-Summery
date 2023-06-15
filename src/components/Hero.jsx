@@ -17,7 +17,7 @@ const Hero = () => {
             <span>Open AI APIS</span>
         </h1>
         <h2 className='desc'>
-            Get the summary of any article of your choice with an open source summarier with uses Chat GPT API to get a concise summary.
+            Get the summary of any article of your choice with an open source summarizer with uses Chat GPT API to get a concise summary.
 
         </h2>
 
